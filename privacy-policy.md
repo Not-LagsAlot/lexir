@@ -1,6 +1,6 @@
 # Privacy Policy
 
-By using Lexir you are giving consent to agreeing that we can collect the data needed for the tabot to work
+By using Lexir you are giving consent to agreeing that we can collect the data needed for the bot to work as intended by the user 
 
 # Data we collect
 Lexir collects the following data
